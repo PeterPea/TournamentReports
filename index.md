@@ -18,11 +18,11 @@ Now, I didn’t get around to doing this until the Calling Sydney due to honestl
 
 ## Report: The Road to Sydney
 
-![My Verdance Decklist](Kassai.png)
-
 To start off the report I want to briefly talk about the three PQ events I played leading up to the event.
 
 ### PQ #1 Mint – 34 Players
+
+![My Verdance Decklist](Kassai.png)
 
 I started off the PQ season playing **Kassai**, as I mistakenly thought that there would be a strong Brute contingent. With the new tools Kassai has gotten recently with the **Gold Fable** and **Blood Follows Blade**, it seemed like a reasonable pick.
 
