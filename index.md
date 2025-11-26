@@ -18,6 +18,8 @@ Now, I didn’t get around to doing this until the Calling Sydney due to honestl
 
 ## Report: The Road to Sydney
 
+![My Verdance Decklist](Kassai.png)
+
 To start off the report I want to briefly talk about the three PQ events I played leading up to the event.
 
 ### PQ #1 Mint – 34 Players
@@ -89,6 +91,8 @@ On the Friday we hopped in two side events and one thing became abundantly clear
 ---
 
 ## Sydney: The Battle Hardened
+
+![My Verdance Decklist](Aurora.png)
 
 I had planned on playing Chane or Viserai as they seemed like the strongest decks, plus I have played both a lot. The Tuesday before the event, LSS decided to ban Thorn which really put me off the idea. Not because they would be bad choices, but because I was mad that I couldn’t play my GF Thorn!
 
