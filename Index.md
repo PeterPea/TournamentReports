@@ -30,6 +30,8 @@ My housemate Tom D ended up winning this event on Kayo which was pretty exciting
 
 ### PQ #2 Mana Market – 25 Players
 
+![My Verdance Decklist](Verdance.png)
+
 After the not-so-stellar results and the realization that Brute was not going to be that popular, I swapped back to **Verdance** which I had played at Nationals. There had been a bit of talk about running no potions and just relying on 3x **Tree** to get you over the line, but honestly I think this is a little suspect and the potions are incredibly useful.
 
 I had been trying to fatigue Gravy since picking up the new list with **Talishar** and blue **Sirens**.
