@@ -24,7 +24,7 @@ To start off the report I want to briefly talk about the three PQ events I playe
 
 ![My Verdance Decklist](Kassai.png)
 
-I started off the PQ season playing **Kassai**, as I mistakenly thought that there would be a strong Brute contingent. With the new tools Kassai has gotten recently with the **Gold Fable** and **Blood Follows Blade**, it seemed like a reasonable pick.
+I started off the PQ season playing **Kassai**, as I mistakenly thought that there would be a strong Brute contingent. With the tools Kassai has gotten recently with the **Gold Fable** and **Blood Follows Blade**, it seemed like a reasonable pick.
 
 I ended up going **3-3**, beating Marlynn, R Kayo, Dawnblade Dori, and losing to Marlynn, Florian, and Oscilio.
 
