@@ -74,7 +74,7 @@ After two successful weeks on Verdance I was feeling pretty ready for Sydney.
 
 ## Sydney: The Calling
 
-On the Friday we hopped in two side events and one thing became abundantly clear to me: fatiguing Gravy was not on the cards for this event. Walking around the tables looking at Verdance vs Gravy games I kept seeing one card over and over: **Remembrance**. This was also demonstrated to me in my Round 3 of the first event where my opponent, Tan, waited until his deck was about 10 blues and nothing else and then shuffled in 3 Boats.
+On the Friday we hopped in two side events and one thing became abundantly clear to me: fatiguing Gravy was not on the cards for this event. Walking around the tables looking at Verdance vs Gravy games I kept seeing one card over and over: **Remembrance**. This was also demonstrated to me in my Round 3 of the first event where my opponent, Joon Chien, waited until his deck was about 10 blues and nothing else and then shuffled in 3 Boats.
 
 **Talishar out.**
 
@@ -107,9 +107,9 @@ The event was pretty small at 40 players.
 *   **Round 3 – Andreas Andrnicou – Prism (Win, 2-1):** I got to live the dream this game. Arc Lightning -> Tome from arsenal -> Ball Lightning -> Ball Lightning. It was enough to nearly kill him and put him into the deathloop. Shortly after, the game was mine.
 *   **Round 4 – Bill Huynh – Briar (Win, 3-1):** Bill was on a nimby Briar list which is a matchup I am pretty happy to play with Aurora. It’s hard for Briar to get massive hat value here and unless they go crazy with CMH your consistency should have an edge. This game ended fairly close with Bill getting good defensive value out of the embodiments but I able to keep enough cards to present lethal.
 *   **Round 5 – Patrick Sharpe – Dash I/O (Win, 4-1):** Once again I’m vsing my local Pat. We start off joking around when he flips a Null Time Zone off the top and doesn’t know if "Arc Lightning" is the actual name of Arc Lightning. I start off the game with an E-Strike into a Warmongers which stunts his progress. I’m able to deal a bunch of damage with some good Ball Lightning turns and take the game.
-*   **Round 6 – Chien Joon Tan – Starvo (Loss, 4-2):** This matchup is tough. I think it has improved compared to when I was playtesting for Worlds last year, but it's still not great. This game ended up being a pretty good one though as I made it super close without any big Arc/Ball combos. I was fairly sure I was still in the Top 8 even with the second loss, but I was a bit nervous.
+*   **Round 6 – Joon Chien Tan – Starvo (Loss, 4-2):** This matchup is tough. I think it has improved compared to when I was playtesting for Worlds last year, but it's still not great. This game ended up being a pretty good one though as I made it super close without any big Arc/Ball combos. I was fairly sure I was still in the Top 8 even with the second loss, but I was a bit nervous.
 
-**Top 8 – Chien Joon Tan – Starvo (Loss)**
+**Top 8 – Joon Chien Tan – Starvo (Loss)**
 
 Well, Top 8 was secured, but my inability to win the last game came back to bite me as I had to go for the rematch. I would like to say that this game was a nailbiter, but alas, quite the opposite. Right out of the gate my opponent was fusing, and that seemed to continue for most of the game.
 
